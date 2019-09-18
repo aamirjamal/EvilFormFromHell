@@ -1,0 +1,19 @@
+#valid {
+  color: red;
+}
+
+#sub {
+  display: none;
+}
+
+#slider {
+  margin-top: 50px;
+}
+
+#radiobtns {
+  display: inline;
+}
+p {
+  display: inline;
+  margin-right: 20px;
+}
